@@ -1,6 +1,6 @@
 # gpuFI-4: A Microarchitecture-Level Framework for Assessing the Cross-Layer Resilience of Nvidia GPUs
 
-gpuFI-4 is a detailed microarchitecture-level fault injection framework to assess the cross-layer vulnerability of hardware structures and entire GPU chips for single and multiple bit faults, built on top of the state-of-the-art simulator [GPGPU-Sim](https://github.com/gpgpu-sim/gpgpu-sim_distribution). The target hardware structures that gpuFI-4 can perform error injection campaigns are the register file, the shared memory, the L1 data and texture caches and the L2 cache.
+gpuFI-4 is a detailed microarchitecture-level fault injection framework to assess the cross-layer vulnerability of hardware structures and entire NVIDIA GPU chips for single and multiple bit faults, built on top of the state-of-the-art simulator [GPGPU-Sim](https://github.com/gpgpu-sim/gpgpu-sim_distribution). The target hardware structures that gpuFI-4 can perform error injection campaigns are the register file, the shared memory, the L1 data and texture caches and the L2 cache.
 
 ## REFERENCE
 If you use gpuFI-4 for your research, please cite:
