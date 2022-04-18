@@ -7,7 +7,7 @@ If you use gpuFI-4 for your research, please cite:
 
 >D. Sartzetakis, G. Papadimitriou, and D. Gizopoulos, “gpuFI-4: A Microarchitecture-Level Framework for Assessing the Cross-Layer Resilience of Nvidia GPUs", IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS 2022), Singapore, May 22-24 2022.
 
-The full ISPASS 2022 paper for gpuFI-4 can be found [here](http://cal.di.uoa.gr/wp-content/uploads/2022/3/gpuFI-4_ISPASS_2022.pdf).
+The full ISPASS 2022 paper for gpuFI-4 can be found [here](http://cal.di.uoa.gr/wp-content/uploads/2022/04/gpuFI-4_ISPASS_2022.pdf).
 
 ## INSTALLING and BUILDING gpuFI-4
 
